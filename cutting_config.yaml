@@ -1,0 +1,13 @@
+sample_img:
+    img_folder_path: "Y:/DL_data_big/JSH_Tracking_dataset_Pig/1"
+    det_file_path: "D:/load_json/det/det_file_1.txt"
+    img_format: ".jpg"
+    det_format: ".txt"
+    width_roi_padding: 0.08
+    height_roi_padding: 0.0
+    show_option: True
+
+cutting_img:
+    output_path: "D:/load_json/output"
+    width: 128
+    height: 128
